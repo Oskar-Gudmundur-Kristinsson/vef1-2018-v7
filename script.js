@@ -42,6 +42,7 @@ function play() {
     }
     answered++;
     if(ret==null){
+      alert("Hætt í leik");
       break;
     }
   }
